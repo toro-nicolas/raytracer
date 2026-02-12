@@ -3,13 +3,13 @@
 ![Raytracer](screenshots/showcase.png)
 
 ## Table of contents 📑
-- [Description](https://github.com/toro-nicolas/Raytracer/blob/main/README.md#description-)
-- [Usage](https://github.com/toro-nicolas/Raytracer/blob/main/README.md#usage-%EF%B8%8F)
-- [Result](https://github.com/toro-nicolas/Raytracer/blob/main/README.md#result-)
-- [Compilation](https://github.com/toro-nicolas/Raytracer/blob/main/README.md#compilation-%EF%B8%8F)
-- [Documentation](https://github.com/toro-nicolas/Raytracer/blob/main/README.md#documentation-)
-- [Code mandatory](https://github.com/toro-nicolas/Raytracer/blob/main/README.md#code-mandatory-)
-- [Contributors](https://github.com/toro-nicolas/Raytracer/blob/main/README.md#contributors-)
+- [Description](https://github.com/toro-nicolas/raytracer/blob/main/README.md#description-)
+- [Usage](https://github.com/toro-nicolas/raytracer/blob/main/README.md#usage-%EF%B8%8F)
+- [Result](https://github.com/toro-nicolas/raytracer/blob/main/README.md#result-)
+- [Compilation](https://github.com/toro-nicolas/raytracer/blob/main/README.md#compilation-%EF%B8%8F)
+- [Documentation](https://github.com/toro-nicolas/raytracer/blob/main/README.md#documentation-)
+- [Code mandatory](https://github.com/toro-nicolas/raytracer/blob/main/README.md#code-mandatory-)
+- [Contributors](https://github.com/toro-nicolas/raytracer/blob/main/README.md#contributors-)
 
 
 
@@ -144,5 +144,5 @@ You need multiple package for generate them :
 For this project, we were a group of **4 people**. Here are the people in the group:
 - [Gianni TUERO](https://github.com/xJundo)
 - [Lou PELLEGRINO](https://github.com/DimitriLaPoudre)
-- [Nicolas TORO](https://github.com/toro-nicolas) : also published the [Raytracer](https://github.com/toro-nicolas/Raytracer)
+- [Nicolas TORO](https://github.com/toro-nicolas)
 - [Olivier POUECH](https://github.com/Livoooo)
